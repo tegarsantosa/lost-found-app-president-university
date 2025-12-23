@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.List;
 
 public class ApiService {
-    private static final String BASE_URL = "http://10.0.2.2:3000/";
+    private static final String BASE_URL = "http://webprog2.f-host.site/";
     private static ApiInterface apiInterface;
 
     public interface ApiInterface {
